@@ -324,6 +324,7 @@ const Tetris = () => {
           <h1 style={{
             fontSize: '24px',
             fontWeight: 'bold',
+            color: 'red',
             marginBottom: '16px'
           }}>
             俄罗斯方块
@@ -351,6 +352,7 @@ const Tetris = () => {
           </div>
           <p style={{
             fontSize: '20px',
+            color: 'black',
             marginBottom: '8px'
           }}>
             分数: {score}
